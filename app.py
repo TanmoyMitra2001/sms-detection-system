@@ -54,4 +54,4 @@ if st.button('Predict'):
     else:
         st.header("Not Spam")
 
-st.write('Made With:heart, *Tanmoy Mitra* :sunglasses:')
+st.write(' Made With :heart: By, *Tanmoy Mitra* :sunglasses:')
