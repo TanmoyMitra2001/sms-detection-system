@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 import nltk
-nltk.download()
+nltk.download('punkt')
 
 streamlit-option-menu
 numpy
