@@ -1,5 +1,5 @@
-nltk==3.8.2
-nltk.download('punkt')
+nltk==3.6.2
+
 
 streamlit
 pandas
