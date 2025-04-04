@@ -1,4 +1,4 @@
-nltk
+nltk==3.8.2
 nltk.download('punkt')
 
 streamlit
