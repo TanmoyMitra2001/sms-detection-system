@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 nltk
-
+nltk.download('punkt')
 
 streamlit-option-menu
 numpy
@@ -13,4 +13,3 @@ plotly
 pandas
 joblib
 scikit-learn
-nltk.download('punkt_tab')
