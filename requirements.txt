@@ -1,9 +1,11 @@
+nltk
+nltk.download('punkt')
+
 streamlit
 pandas
 numpy
-nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+
+
 
 streamlit-option-menu
 numpy
