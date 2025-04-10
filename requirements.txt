@@ -1,10 +1,8 @@
-pip-install --upgrade pip
 streamlit
 pandas
 numpy
 nltk
 
-nltk.tokenize import PunktTokenizer
 streamlit-option-menu
 numpy
 streamlit
@@ -14,3 +12,6 @@ plotly
 pandas
 joblib
 scikit-learn
+setuptools
+wheel
+requests
