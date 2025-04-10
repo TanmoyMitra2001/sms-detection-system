@@ -1,15 +1,2 @@
-streamlit
-pandas
-numpy
-nltk==3.8.1
-nltk.download('punkt_tab')
-streamlit-option-menu==0.3.6
-numpy
-streamlit==1.25.0
-seaborn
-matplotlib
-plotly
-pandas
-joblib
 scikit-learn
-Pillow==10.2.0
+nltk
