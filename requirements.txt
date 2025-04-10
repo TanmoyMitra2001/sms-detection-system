@@ -3,6 +3,7 @@ pandas
 numpy
 import nltk
 nltk.download('punkt_tab')
+from nltk.tokenize import PunktTokenizer
 
 streamlit-option-menu
 numpy
