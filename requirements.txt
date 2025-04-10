@@ -1,11 +1,11 @@
 streamlit
 pandas
 numpy
-nltk
+nltk==3.8.1
 
-streamlit-option-menu
+streamlit-option-menu==0.3.6
 numpy
-streamlit
+streamlit==1.25.0
 seaborn
 matplotlib
 plotly
