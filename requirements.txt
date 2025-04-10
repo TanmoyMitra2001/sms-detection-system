@@ -12,6 +12,4 @@ plotly
 pandas
 joblib
 scikit-learn
-setuptools
-wheel
-requests
+
