@@ -12,4 +12,4 @@ plotly
 pandas
 joblib
 scikit-learn
-Pillow
+Pillow==10.2.0
